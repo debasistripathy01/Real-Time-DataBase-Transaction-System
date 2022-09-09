@@ -23,6 +23,7 @@
 - start a MongoDB session through a driver --> run CRUD (create, read, update, and delete) operations across multiple documents --> 
 
 # RequireMents
-- ```MongoDB Atlas Account
-- ```npm
-- ```nodemon
+- MongoDB Atlas Account
+- ```npm```
+- ```nodemon```
+- ```Express```
