@@ -27,5 +27,3 @@
 - ```npm```
 - ```nodemon```
 - ```Express```
-
-This will help out in a lot of things
