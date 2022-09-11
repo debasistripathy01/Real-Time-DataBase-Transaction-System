@@ -1,0 +1,30 @@
+{
+  "name": "real-time-transactionsystem",
+  "version": "1.0.0",
+  "description": "# Dependencies - Node.js (version >= 16.0) - MongoDB Atlas account - Code editor e.g. VSCode - Postman",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debasistripathy01/Real-Time-TransactionSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debasistripathy01/Real-Time-TransactionSystem/issues"
+  },
+  "homepage": "https://github.com/debasistripathy01/Real-Time-TransactionSystem#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
